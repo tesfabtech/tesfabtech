@@ -65,7 +65,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🍵 Jebena Cafe Website](https://github.com/tesfabtech/jebena-cafe) | A responsive cafe site with EmailJS order system and Swiper.js slider | HTML, Bootstrap, JS |
-| [🌍 Tour Management System](http://toursys.atwebpages.com/Tour/index.php) | A full web platform to book and manage tours. Features user/admin dashboards, secure passport upload, email notifications, and booking control | HTML, CSS, JS, PHP, MySQL |
+| [🥿 Ecommerce shoe store](http://sabasteps.atwebpages.com/shoe-store/index.php) | An e-commerce website for a shoe store built with PHP, MySQL, and Bootstrap. | HTML, CSS, JS, PHP, MySQL |
 | 🌐 Portfolio Website *(Coming soon)* | A personal portfolio to showcase projects, services, and contact info | HTML, Tailwind, Netlify |
 
 ---
