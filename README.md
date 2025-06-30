@@ -66,7 +66,7 @@
 |--------|-------------|-------|
 | [🍵 Jebena Cafe Website](https://github.com/tesfabtech/jebena-cafe) | A responsive cafe site with EmailJS order system and Swiper.js slider | HTML, Bootstrap, JS |
 | [🥿 Ecommerce shoe store](http://sabasteps.atwebpages.com/shoe-store/index.php) | An e-commerce website for a shoe store built with PHP, MySQL, and Bootstrap. | HTML, CSS, JS, PHP, MySQL |
-| 🌐 Portfolio Website *(Coming soon)* | A personal portfolio to showcase projects, services, and contact info | HTML, Tailwind, Netlify |
+| [🌐 Portfolio Website](https://tesfab.vercel.app/) | A personal portfolio to showcase projects, services, and contact info | HTML, CSS, JS |
 
 ---
 
